@@ -4,7 +4,7 @@ This repository is a template for the NeuroHackademy 2025 week-1
 projects. The goal of the project is to examine data from the
 [Reproducible Brain Charts (RBC)](https://reprobrainchart.github.io/) database
 and to use any of its data to predict the `p_factor` of a set of participants.
-Project details can be found below.
+Project details can be found below. abc
 
 
 ## How to use this repository
